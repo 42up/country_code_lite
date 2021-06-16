@@ -25,9 +25,7 @@ module CountryCodeLite
     end
 
     def find_by_code(code)
-      entries = DICTIONARY.sort { |a, b| b["code"] <=> a["code"] }
-
-      entry = entries.select do |e|
+      entry = DICTIONARY.select do |e|
         code.upcase == e["code"]
       end.first
 
