@@ -1,0 +1,1086 @@
+---
+-
+  name: 阿富汗
+  en_name: Afghanistan
+  code: AF
+  number: 93
+-
+  name: 阿尔巴尼亚
+  en_name: Albania
+  code: AL
+  number: 355
+-
+  name: 阿尔及利亚
+  en_name: Algeria
+  code: DZ
+  number: 213
+-
+  name: 美属萨摩亚
+  en_name: American Samoa
+  code: AS
+  number: 1684
+-
+  name: 安道尔
+  en_name: Andorra
+  code: AD
+  number: 376
+-
+  name: 安哥拉
+  en_name: Angola
+  code: AO
+  number: 244
+-
+  name: 安圭拉
+  en_name: Anguilla
+  code: AI
+  number: 1264
+-
+  name: 安提瓜和巴布达
+  en_name: Antigua and Barbuda
+  code: AG
+  number: 1268
+-
+  name: 阿根廷
+  en_name: Argentina
+  code: AR
+  number: 54
+-
+  name: 亚美尼亚
+  en_name: Armenia
+  code: AM
+  number: 374
+-
+  name: 阿鲁巴
+  en_name: Aruba
+  code: AW
+  number: 297
+-
+  name: 澳大利亚
+  en_name: Australia
+  code: AU
+  number: 61
+-
+  name: 奥地利
+  en_name: Austria
+  code: AT
+  number: 43
+-
+  name: 阿塞拜疆
+  en_name: Azerbaijan
+  code: AZ
+  number: 994
+-
+  name: 巴哈马
+  en_name: Bahamas
+  code: BS
+  number: 1242
+-
+  name: 巴林
+  en_name: Bahrain
+  code: BH
+  number: 973
+-
+  name: 孟加拉国
+  en_name: Bangladesh
+  code: BD
+  number: 880
+-
+  name: 巴巴多斯
+  en_name: Barbados
+  code: BB
+  number: 1246
+-
+  name: 白俄罗斯
+  en_name: Belarus
+  code: BY
+  number: 375
+-
+  name: 比利时
+  en_name: Belgium
+  code: BE
+  number: 32
+-
+  name: 伯利兹
+  en_name: Belize
+  code: BZ
+  number: 501
+-
+  name: 贝宁
+  en_name: Benin
+  code: BJ
+  number: 229
+-
+  name: 百慕大群岛
+  en_name: Bermuda
+  code: BM
+  number: 1441
+-
+  name: 不丹
+  en_name: Bhutan
+  code: BT
+  number: 975
+-
+  name: 玻利维亚
+  en_name: Bolivia
+  code: BO
+  number: 591
+-
+  name: 波斯尼亚和黑塞哥维那
+  en_name: Bosnia and Herzegovina
+  code: BA
+  number: 387
+-
+  name: 博茨瓦纳
+  en_name: Botswana
+  code: BW
+  number: 267
+-
+  name: 巴西
+  en_name: Brazil
+  code: BR
+  number: 55
+-
+  name: 文莱
+  en_name: Brunei
+  code: BN
+  number: 673
+-
+  name: 保加利亚
+  en_name: Bulgaria
+  code: BG
+  number: 359
+-
+  name: 布基纳法索
+  en_name: Burkina Faso
+  code: BF
+  number: 226
+-
+  name: 布隆迪
+  en_name: Burundi
+  code: BI
+  number: 257
+-
+  name: 柬埔寨
+  en_name: Cambodia
+  code: KH
+  number: 855
+-
+  name: 喀麦隆
+  en_name: Cameroon
+  code: CM
+  number: 237
+-
+  name: 加拿大
+  en_name: Canada
+  code: CA
+  number: 1
+-
+  name: 开普
+  en_name: Cape Verde
+  code: CV
+  number: 238
+-
+  name: 开曼群岛
+  en_name: Cayman Islands
+  code: KY
+  number: 1345
+-
+  name: 中非共和国
+  en_name: Central African Republic
+  code: CF
+  number: 236
+-
+  name: 乍得
+  en_name: Chad
+  code: TD
+  number: 235
+-
+  name: 智利
+  en_name: Chile
+  code: CL
+  number: 56
+-
+  name: 中国
+  en_name: China
+  code: CHN
+  number: 86
+-
+  name: 哥伦比亚
+  en_name: Colombia
+  code: CO
+  number: 57
+-
+  name: 科摩罗
+  en_name: Comoros
+  code: KM
+  number: 269
+-
+  name: 库克群岛
+  en_name: Cook Islands
+  code: CK
+  number: 682
+-
+  name: 哥斯达黎加
+  en_name: Costa Rica
+  code: CR
+  number: 506
+-
+  name: 克罗地亚
+  en_name: Croatia
+  code: HR
+  number: 385
+-
+  name: 古巴
+  en_name: Cuba
+  code: CU
+  number: 53
+-
+  name: 库拉索
+  en_name: Curacao
+  code: CW
+  number: 599
+-
+  name: 塞浦路斯
+  en_name: Cyprus
+  code: CY
+  number: 357
+-
+  name: 捷克
+  en_name: Czech
+  code: CZ
+  number: 420
+-
+  name: 刚果民主共和国
+  en_name: Democratic Republic of the Congo
+  code: CD
+  number: 243
+-
+  name: 丹麦
+  en_name: Denmark
+  code: DK
+  number: 45
+-
+  name: 吉布提
+  en_name: Djibouti
+  code: DJ
+  number: 253
+-
+  name: 多米尼加
+  en_name: Dominica
+  code: DM
+  number: 1767
+-
+  name: 多米尼加共和国
+  en_name: Dominican Republic
+  code: DO
+  number: 1809
+-
+  name: 东帝汶
+  en_name: East Timor
+  code: TL
+  number: 670
+-
+  name: 厄瓜多尔
+  en_name: Ecuador
+  code: EC
+  number: 593
+-
+  name: 埃及
+  en_name: Egypt
+  code: EG
+  number: 20
+-
+  name: 萨尔瓦多
+  en_name: El Salvador
+  code: SV
+  number: 503
+-
+  name: 赤道几内亚
+  en_name: Equatorial Guinea
+  code: GQ
+  number: 240
+-
+  name: 厄立特里亚
+  en_name: Eritrea
+  code: ER
+  number: 291
+-
+  name: 爱沙尼亚
+  en_name: Estonia
+  code: EE
+  number: 372
+-
+  name: 埃塞俄比亚
+  en_name: Ethiopia
+  code: ET
+  number: 251
+-
+  name: 法罗群岛
+  en_name: Faroe Islands
+  code: FO
+  number: 298
+-
+  name: 斐济
+  en_name: Fiji
+  code: FJ
+  number: 679
+-
+  name: 芬兰
+  en_name: Finland
+  code: FI
+  number: 358
+-
+  name: 法国
+  en_name: France
+  code: FR
+  number: 33
+-
+  name: 法属圭亚那
+  en_name: French Guiana
+  code: GF
+  number: 594
+-
+  name: 法属波利尼西亚
+  en_name: French Polynesia
+  code: PF
+  number: 689
+-
+  name: 加蓬
+  en_name: Gabon
+  code: GA
+  number: 241
+-
+  name: 冈比亚
+  en_name: Gambia
+  code: GM
+  number: 220
+-
+  name: 格鲁吉亚
+  en_name: Georgia
+  code: GE
+  number: 995
+-
+  name: 德国
+  en_name: Germany
+  code: DE
+  number: 49
+-
+  name: 加纳
+  en_name: Ghana
+  code: GH
+  number: 233
+-
+  name: 直布罗陀
+  en_name: Gibraltar
+  code: GI
+  number: 350
+-
+  name: 希腊
+  en_name: Greece
+  code: GR
+  number: 30
+-
+  name: 格陵兰岛
+  en_name: Greenland
+  code: GL
+  number: 299
+-
+  name: 格林纳达
+  en_name: Grenada
+  code: GD
+  number: 1473
+-
+  name: 瓜德罗普岛
+  en_name: Guadeloupe
+  code: GP
+  number: 590
+-
+  name: 关岛
+  en_name: Guam
+  code: GU
+  number: 1671
+-
+  name: 瓜地马拉
+  en_name: Guatemala
+  code: GT
+  number: 502
+-
+  name: 几内亚
+  en_name: Guinea
+  code: GN
+  number: 224
+-
+  name: 几内亚比绍共和国
+  en_name: Guinea-Bissau
+  code: GW
+  number: 245
+-
+  name: 圭亚那
+  en_name: Guyana
+  code: GY
+  number: 592
+-
+  name: 海地
+  en_name: Haiti
+  code: HT
+  number: 509
+-
+  name: 洪都拉斯
+  en_name: Honduras
+  code: HN
+  number: 504
+-
+  name: 中国香港
+  en_name: Hong Kong
+  code: HK
+  number: 852
+-
+  name: 匈牙利
+  en_name: Hungary
+  code: HU
+  number: 36
+-
+  name: 冰岛
+  en_name: Iceland
+  code: IS
+  number: 354
+-
+  name: 印度
+  en_name: India
+  code: IN
+  number: 91
+-
+  name: 印度尼西亚
+  en_name: Indonesia
+  code: ID
+  number: 62
+-
+  name: 伊朗
+  en_name: Iran
+  code: IR
+  number: 98
+-
+  name: 伊拉克
+  en_name: Iraq
+  code: IQ
+  number: 964
+-
+  name: 爱尔兰
+  en_name: Ireland
+  code: IE
+  number: 353
+-
+  name: 以色列
+  en_name: Israel
+  code: IL
+  number: 972
+-
+  name: 意大利
+  en_name: Italy
+  code: IT
+  number: 39
+-
+  name: 象牙海岸
+  en_name: Ivory Coast
+  code: CI
+  number: 225
+-
+  name: 牙买加
+  en_name: Jamaica
+  code: JM
+  number: 1876
+-
+  name: 日本
+  en_name: Japan
+  code: JP
+  number: 81
+-
+  name: 约旦
+  en_name: Jordan
+  code: JO
+  number: 962
+-
+  name: 哈萨克斯坦
+  en_name: Kazakhstan
+  code: KZ
+  number: 7
+-
+  name: 肯尼亚
+  en_name: Kenya
+  code: KE
+  number: 254
+-
+  name: 基里巴斯
+  en_name: Kiribati
+  code: KI
+  number: 686
+-
+  name: 科威特
+  en_name: Kuwait
+  code: KW
+  number: 965
+-
+  name: 吉尔吉斯斯坦
+  en_name: Kyrgyzstan
+  code: KG
+  number: 996
+-
+  name: 老挝
+  en_name: Laos
+  code: LA
+  number: 856
+-
+  name: 拉脱维亚
+  en_name: Latvia
+  code: LV
+  number: 371
+-
+  name: 黎巴嫩
+  en_name: Lebanon
+  code: LB
+  number: 961
+-
+  name: 莱索托
+  en_name: Lesotho
+  code: LS
+  number: 266
+-
+  name: 利比里亚
+  en_name: Liberia
+  code: LR
+  number: 231
+-
+  name: 利比亚
+  en_name: Libya
+  code: LY
+  number: 218
+-
+  name: 列支敦士登
+  en_name: Liechtenstein
+  code: LI
+  number: 423
+-
+  name: 立陶宛
+  en_name: Lithuania
+  code: LT
+  number: 370
+-
+  name: 卢森堡
+  en_name: Luxembourg
+  code: LU
+  number: 352
+-
+  name: 中国澳门
+  en_name: Macau
+  code: MO
+  number: 853
+-
+  name: 马其顿
+  en_name: Macedonia
+  code: MK
+  number: 389
+-
+  name: 马达加斯加
+  en_name: Madagascar
+  code: MG
+  number: 261
+-
+  name: 马拉维
+  en_name: Malawi
+  code: MW
+  number: 265
+-
+  name: 马来西亚
+  en_name: Malaysia
+  code: MY
+  number: 60
+-
+  name: 马尔代夫
+  en_name: Maldives
+  code: MV
+  number: 960
+-
+  name: 马里
+  en_name: Mali
+  code: ML
+  number: 223
+-
+  name: 马耳他
+  en_name: Malta
+  code: MT
+  number: 356
+-
+  name: 马提尼克
+  en_name: Martinique
+  code: MQ
+  number: 596
+-
+  name: 毛里塔尼亚
+  en_name: Mauritania
+  code: MR
+  number: 222
+-
+  name: 毛里求斯
+  en_name: Mauritius
+  code: MU
+  number: 230
+-
+  name: 马约特
+  en_name: Mayotte
+  code: YT
+  number: 269
+-
+  name: 墨西哥
+  en_name: Mexico
+  code: MX
+  number: 52
+-
+  name: 摩尔多瓦
+  en_name: Moldova
+  code: MD
+  number: 373
+-
+  name: 摩纳哥
+  en_name: Monaco
+  code: MC
+  number: 377
+-
+  name: 蒙古
+  en_name: Mongolia
+  code: MN
+  number: 976
+-
+  name: 黑山
+  en_name: Montenegro
+  code: ME
+  number: 382
+-
+  name: 蒙特塞拉特岛
+  en_name: Montserrat
+  code: MS
+  number: 1664
+-
+  name: 摩洛哥
+  en_name: Morocco
+  code: MA
+  number: 212
+-
+  name: 莫桑比克
+  en_name: Mozambique
+  code: MZ
+  number: 258
+-
+  name: 缅甸
+  en_name: Myanmar
+  code: MM
+  number: 95
+-
+  name: 纳米比亚
+  en_name: Namibia
+  code: NA
+  number: 264
+-
+  name: 尼泊尔
+  en_name: Nepal
+  code: NP
+  number: 977
+-
+  name: 荷兰
+  en_name: Netherlands
+  code: NL
+  number: 31
+-
+  name: 新喀里多尼亚
+  en_name: New Caledonia
+  code: NC
+  number: 687
+-
+  name: 新西兰
+  en_name: New Zealand
+  code: NZ
+  number: 64
+-
+  name: 尼加拉瓜
+  en_name: Nicaragua
+  code: NI
+  number: 505
+-
+  name: 尼日尔
+  en_name: Niger
+  code: NE
+  number: 227
+-
+  name: 尼日利亚
+  en_name: Nigeria
+  code: NG
+  number: 234
+-
+  name: 挪威
+  en_name: Norway
+  code: NO
+  number: 47
+-
+  name: 阿曼
+  en_name: Oman
+  code: OM
+  number: 968
+-
+  name: 巴基斯坦
+  en_name: Pakistan
+  code: PK
+  number: 92
+-
+  name: 帕劳
+  en_name: Palau
+  code: PW
+  number: 680
+-
+  name: 巴勒斯坦
+  en_name: Palestine
+  code: BL
+  number: 970
+-
+  name: 巴拿马
+  en_name: Panama
+  code: PA
+  number: 507
+-
+  name: 巴布亚新几内亚
+  en_name: Papua New Guinea
+  code: PG
+  number: 675
+-
+  name: 巴拉圭
+  en_name: Paraguay
+  code: PY
+  number: 595
+-
+  name: 秘鲁
+  en_name: Peru
+  code: PE
+  number: 51
+-
+  name: 菲律宾
+  en_name: Philippines
+  code: PH
+  number: 63
+-
+  name: 波兰
+  en_name: Poland
+  code: PL
+  number: 48
+-
+  name: 葡萄牙
+  en_name: Portugal
+  code: PT
+  number: 351
+-
+  name: 波多黎各
+  en_name: Puerto Rico
+  code: PR
+  number: 1787
+-
+  name: 卡塔尔
+  en_name: Qatar
+  code: QA
+  number: 974
+-
+  name: 刚果共和国
+  en_name: Republic Of The Congo
+  code: CG
+  number: 242
+-
+  name: 留尼汪
+  en_name: Réunion Island
+  code: RE
+  number: 262
+-
+  name: 罗马尼亚
+  en_name: Romania
+  code: RO
+  number: 40
+-
+  name: 俄罗斯
+  en_name: Russia
+  code: RU
+  number: 7
+-
+  name: 卢旺达
+  en_name: Rwanda
+  code: RW
+  number: 250
+-
+  name: 圣基茨和尼维斯
+  en_name: Saint Kitts and Nevis
+  code: KN
+  number: 1869
+-
+  name: 圣露西亚
+  en_name: Saint Lucia
+  code: LC
+  number: 1758
+-
+  name: 圣彼埃尔和密克隆岛
+  en_name: Saint Pierre and Miquelon
+  code: PM
+  number: 508
+-
+  name: 圣文森特和格林纳丁斯
+  en_name: Saint Vincent and The Grenadines
+  code: VC
+  number: 1784
+-
+  name: 萨摩亚
+  en_name: Samoa
+  code: WS
+  number: 685
+-
+  name: 圣马力诺
+  en_name: San Marino
+  code: SM
+  number: 378
+-
+  name: 圣多美和普林西比
+  en_name: Sao Tome and Principe
+  code: ST
+  number: 239
+-
+  name: 沙特阿拉伯
+  en_name: Saudi Arabia
+  code: SA
+  number: 966
+-
+  name: 塞内加尔
+  en_name: Senegal
+  code: SN
+  number: 221
+-
+  name: 塞尔维亚
+  en_name: Serbia
+  code: RS
+  number: 381
+-
+  name: 塞舌尔
+  en_name: Seychelles
+  code: SC
+  number: 248
+-
+  name: 塞拉利昂
+  en_name: Sierra Leone
+  code: SL
+  number: 232
+-
+  name: 新加坡
+  en_name: Singapore
+  code: SG
+  number: 65
+-
+  name: 圣马丁岛（荷兰部分）
+  en_name: Sint Maarten (Dutch Part)
+  code: SX
+  number: 1721
+-
+  name: 斯洛伐克
+  en_name: Slovakia
+  code: SK
+  number: 421
+-
+  name: 斯洛文尼亚
+  en_name: Slovenia
+  code: SI
+  number: 386
+-
+  name: 所罗门群岛
+  en_name: Solomon Islands
+  code: SB
+  number: 677
+-
+  name: 索马里
+  en_name: Somalia
+  code: SO
+  number: 252
+-
+  name: 南非
+  en_name: South Africa
+  code: ZA
+  number: 27
+-
+  name: 韩国
+  en_name: South Korea
+  code: KR
+  number: 82
+-
+  name: 西班牙
+  en_name: Spain
+  code: ES
+  number: 34
+-
+  name: 斯里兰卡
+  en_name: Sri Lanka
+  code: LK
+  number: 94
+-
+  name: 苏丹
+  en_name: Sudan
+  code: SD
+  number: 249
+-
+  name: 苏里南
+  en_name: Suriname
+  code: SR
+  number: 597
+-
+  name: 斯威士兰
+  en_name: Swaziland
+  code: SZ
+  number: 268
+-
+  name: 瑞典
+  en_name: Sweden
+  code: SE
+  number: 46
+-
+  name: 瑞士
+  en_name: Switzerland
+  code: CH
+  number: 41
+-
+  name: 叙利亚
+  en_name: Syria
+  code: SY
+  number: 963
+-
+  name: 中国台湾
+  en_name: Taiwan
+  code: TW
+  number: 886
+-
+  name: 塔吉克斯坦
+  en_name: Tajikistan
+  code: TJ
+  number: 992
+-
+  name: 坦桑尼亚
+  en_name: Tanzania
+  code: TZ
+  number: 255
+-
+  name: 泰国
+  en_name: Thailand
+  code: TH
+  number: 66
+-
+  name: 东帝汶
+  en_name: Timor-Leste
+  code: TL
+  number: 670
+-
+  name: 多哥
+  en_name: Togo
+  code: TG
+  number: 228
+-
+  name: 汤加
+  en_name: Tonga
+  code: TO
+  number: 676
+-
+  name: 特立尼达和多巴哥
+  en_name: Trinidad and Tobago
+  code: TT
+  number: 1868
+-
+  name: 突尼斯
+  en_name: Tunisia
+  code: TN
+  number: 216
+-
+  name: 土耳其
+  en_name: Turkey
+  code: TR
+  number: 90
+-
+  name: 土库曼斯坦
+  en_name: Turkmenistan
+  code: TM
+  number: 993
+-
+  name: 特克斯和凯科斯群岛
+  en_name: Turks and Caicos Islands
+  code: TC
+  number: 1649
+-
+  name: 乌干达
+  en_name: Uganda
+  code: UG
+  number: 256
+-
+  name: 乌克兰
+  en_name: Ukraine
+  code: UA
+  number: 380
+-
+  name: 阿拉伯联合酋长国
+  en_name: United Arab Emirates
+  code: AE
+  number: 971
+-
+  name: 英国
+  en_name: United Kingdom
+  code: GB
+  number: 44
+-
+  name: 美国
+  en_name: United States
+  code: US
+  number: 1
+-
+  name: 乌拉圭
+  en_name: Uruguay
+  code: UY
+  number: 598
+-
+  name: 乌兹别克斯坦
+  en_name: Uzbekistan
+  code: UZ
+  number: 998
+-
+  name: 瓦努阿图
+  en_name: Vanuatu
+  code: VU
+  number: 678
+-
+  name: 委内瑞拉
+  en_name: Venezuela
+  code: VE
+  number: 58
+-
+  name: 越南
+  en_name: Vietnam
+  code: VN
+  number: 84
+-
+  name: 英属处女群岛
+  en_name: Virgin Islands, British
+  code: VG
+  number: 1340
+-
+  name: 美属维尔京群岛
+  en_name: Virgin Islands, US
+  code: VI
+  number: 1284
+-
+  name: 也门
+  en_name: Yemen
+  code: YE
+  number: 967
+-
+  name: 赞比亚
+  en_name: Zambia
+  code: ZM
+  number: 260
+-
+  name: 津巴布韦
+  en_name: Zimbabwe
+  code: ZW
+  number: 263
