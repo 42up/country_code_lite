@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "country code lib"
   spec.description   = "country code lib"
-  spec.homepage      = "https://github.com/42up/_code_lite"
+  spec.homepage      = "https://github.com/42up/country_code_lite"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 

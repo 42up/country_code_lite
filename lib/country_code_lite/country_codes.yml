@@ -717,7 +717,7 @@
 -
   name: 挪威
   en_name: Norway
-  code: NO
+  code: 'NO'
   number: 47
 -
   name: 阿曼
